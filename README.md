@@ -1,16 +1,15 @@
-👨🏽‍⚕️ Johnny Microbiologist
-Medical Microbiologist | Medical Coding Specialist
+                                                                            👨🏽‍⚕️ Johnny Microbiologist
+                                                                   Medical Microbiologist | Medical Coding Specialist
 
-Welcome to my 🌍 Medical Coding Portfolio — a curated collection of 40+ real-world clinical coding scenarios featuring accurate ICD-10, CPT, and HCPCS applications<bv/r>
-
-With a foundation in medical microbiology, I specialize in translating clinical encounters into precise codes backed by documentation, educational walkthroughs, and multi-platform content<bv/r>
+Welcome to my 🌍 Medical Coding Portfolio — a curated collection of 40+ real-world clinical coding scenarios featuring accurate ICD-10, CPT, and HCPCS applications
+With a foundation in medical microbiology, I specialize in translating clinical encounters into precise codes backed by documentation, educational walkthroughs, and multi-platform content
 
 🧠 What You'll Find<bv/r>
-🔹 ICD-10, CPT, HCPCS Code Assignments<bv/r>
-🔹 Case Summaries with clear coding rationale<bv/r>
-🔹 Coding Audits and claim denial corrections<bv/r>
-🔹 Cheatsheets and interactive mini-quizzes<bv/r>
-🔹 Workflow-Aligned Content designed for real practice<bv/r>
+🔹 ICD-10, CPT, HCPCS Code Assignments
+🔹 Case Summaries with clear coding rationale
+🔹 Coding Audits and claim denial corrections
+🔹 Cheatsheets and interactive mini-quizzes
+🔹 Workflow-Aligned Content designed for real practice
 
 🎬 Each Project Includes<bv/r>
 🎥 Walkthrough Videos on YouTube:https://www.youtube.com/@Johnny_Microbiologist <bv/r>
