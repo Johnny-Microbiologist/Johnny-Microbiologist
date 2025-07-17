@@ -1,5 +1,5 @@
 👨🏽‍⚕️ Johnny Microbiologist<br/> 
-Medical Microbiologist | Medical Coding Specialist<br/>
+Medical Microbiologist | Clinical Coding Specialist<br/>
  ________________________________________                                                                                                                                                                         
 Welcome to my Medical Coding Portfolio — a collection of 40+ real-world cases coded with ICD-10, CPT, and HCPCS.<br/>
 With a background in medical microbiology, I convert clinical notes into accurate codes, supported by clear documentation and cross-platform content.<br/>
